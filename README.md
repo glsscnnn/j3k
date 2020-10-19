@@ -1,3 +1,3 @@
-# J3k
+# J3K
 
-Authentication baseline, I can use what is here to build on in other projects
+What is an authentication?
